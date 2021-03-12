@@ -52,9 +52,10 @@ animations = [
     'lookaround.bmp',
     'sine.bmp',
     'sine-inverted.bmp',
+    'zigzag.bmp',
 ]
-weights = [0.3, 0.5, 0.15, 0.03, 0.02]
-fps = [6, 1, 3, 24, 24]
+weights = [0.3, 0.5, 0.12, 0.03, 0.02, 0.03]
+fps = [6, 1, 3, 24, 24, 24]
 
 last_anim_name = ''
 while(1):
